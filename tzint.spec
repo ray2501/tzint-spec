@@ -6,7 +6,7 @@ Name:          tzint
 Summary:       tcl package for libzint barcode encoding library
 Version:       1.0
 Release:       0
-License:       BSD 3-Clause License
+License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
 Source:        tzint1.0-src.tar.gz
 URL:           https://sourceforge.net/projects/tclsnippets/files/tzint/
